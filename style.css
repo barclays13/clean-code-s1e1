@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.info .more-info {
+.more-info {
   font-family: fantasy, cursive;
 }
 
@@ -49,11 +49,13 @@ ul {
   padding: 0;
 }
 
-li, h3 {
+li, 
+h3 {
   list-style: none;
 }
 
-input,button{
+input,
+button{
   outline: none;
 }
 
